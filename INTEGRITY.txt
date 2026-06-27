@@ -81,3 +81,17 @@ Share SQL DBA knowledge and best practices with team members.
 Create or update at least 3 SOP/runbook documents during the year.
 Conduct at least 2 knowledge-sharing sessions on SQL DBA topics such as Always On, backup/restore, TDE, patching, monitoring, or performance troubleshooting.
 Support cross-team escalations with ownership until closure.
+
+Act as a trusted Database Architect for application, infrastructure, security, and business teams by providing scalable, secure, and reliable database solutions aligned with stakeholder priorities and business outcomes.
+
+Ensure database architecture, design reviews, performance improvements, capacity planning, HA/DR, security, and cloud/database modernization requirements are understood, tracked, prioritized, and delivered with strong ownership.
+
+Measures:
+
+Maintain a clear demand and architecture tracker for database design, improvement items, risks, technical debt, and stakeholder requests.
+Conduct timely database design reviews for new applications, enhancements, migrations, and major changes.
+Provide architecture guidance on SQL Server, Azure SQL MI, HA/DR, backup strategy, security, encryption, monitoring, and performance.
+Ensure stakeholder requirements are converted into practical database solutions with clear options, risks, cost, timeline, and recommendation.
+Improve service quality by identifying recurring database issues and proposing permanent architectural fixes.
+Support application and business teams with timely consultation for performance, availability, scalability, compliance, and audit requirements.
+Achieve agreed SLA/timeline for architecture reviews, solution recommendations, and critical stakeholder deliverables.
