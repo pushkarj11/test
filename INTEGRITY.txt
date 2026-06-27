@@ -1,0 +1,83 @@
+1. INTEGRITY
+
+Ensure all database change requests (SNOW CHG), maintenance approvals, and ememo submissions are reviewed and approved with full due diligence — fewer than 3 negligent approvals across the year. Maintain 100% compliance with change freeze windows, access control policies, and audit requirements. Zero audit findings attributable to unapproved or undocumented database changes.
+
+2. CUSTOMERS FIRST
+
+Maintain a structured demand tracker covering all DBA service requests — query tuning, access provisioning, schema changes, and incident support — reviewed weekly. Ensure 90%+ of requests are acknowledged within 1 business day and resolved within agreed SLAs. Target fewer than 5 SLA breaches per year on P1/P2 database incidents.
+
+3. PROACTIVE & INNOVATIVE
+
+Implement proactive database monitoring (performance, capacity, replication lag, blocking queries) with alerts configured to detect issues before they impact users. Target fewer than 2 incidents per year where root cause was a foreseeable and unmonitored risk. Propose and deliver at least 2 innovations annually — such as automation of routine DBA tasks (backups, index rebuilds, stats updates), query optimization initiatives, or tooling improvements — with measurable before/after outcomes.
+
+4. SPEED & QUALITY
+
+Manage all database projects, upgrades, migrations, and patching cycles with a formal plan covering timelines, milestones, rollback procedures, and a live tracker. Maintain database availability at 99.9%+ for production environments. Keep planning-related delays to fewer than 3 per year and monthly amber RAG status below 16%. Ensure all patching and maintenance is completed within scheduled windows with zero unplanned outages due to poor planning.
+
+5. TEAM SMBC GROUP
+
+Proactively support application teams, developers, branches, and infrastructure peers on all database-related needs. Target zero unresolved P1/P2 escalations older than 4 hours and zero open cross-team complaints older than 5 business days. Conduct at least 2 knowledge-sharing sessions per year (e.g., query best practices, DB standards) to reduce ad hoc support demand and upskill dependent teams by 20% in self-service capability.
+
+
+
+
+
+Below is a ready-to-paste competency goals draft for SQL DBA annual goal setting.
+
+1. INTEGRITY
+
+Ensure all SQL Server production changes, approvals, access requests, and operational activities are performed with full compliance to bank policies, audit requirements, and risk controls.
+
+Measures:
+
+100% of production changes to have proper SNOW CHG / eMemo approval before implementation.
+Zero unauthorized production changes.
+Less than 3 cases of negligent approval or missing mandatory evidence.
+100% of DBA activities such as backup, restore, patching, security, TDE/certificate, and audit-related tasks to have proper documentation and evidence.
+Ensure timely escalation for any risk, control gap, or non-compliance issue.
+2. CUSTOMERS FIRST
+
+Maintain strong service focus for application teams, users, infra teams, and business stakeholders by tracking DBA tasks, demands, incidents, and service improvement items based on priority and business impact.
+
+Measures:
+
+Maintain a demand/task tracker for all SQL DBA requests, incidents, changes, and improvement items.
+Review and update tracker at least weekly.
+Achieve SLA compliance for incidents, service requests, and change activities.
+Ensure critical application/database issues are communicated clearly and escalated on time.
+Provide timely support for performance issues, blocking, backup/restore, SQL Agent jobs, Always On, SSRS, security, and audit requests.
+3. PROACTIVE & INNOVATIVE
+
+Proactively identify database risks and service improvement opportunities instead of working only in BAU/reactive mode. Improve SQL DBA operations through automation, monitoring, preventive checks, and better planning.
+
+Measures:
+
+Perform regular SQL health checks covering backup status, job failures, disk/capacity, Always On health, blocking, performance, security, and audit status.
+Identify and track database risks early with action plans and target dates.
+Deliver at least 3 improvement or automation initiatives during the year, such as backup validation automation, job failure alerting, patching tracker, health-check scripts, or audit evidence automation.
+Reduce recurring incidents by identifying root cause and implementing permanent fixes.
+Escalate major risks early with clear impact, options, and recommended actions.
+4. SPEED & QUALITY
+
+Deliver SQL DBA changes, projects, patching, upgrades, migrations, audit tasks, and service improvements with proper planning, timeline, quality checks, and post-implementation validation.
+
+Measures:
+
+100% of major DBA activities to have clear implementation plan, rollback plan, validation steps, and communication.
+Maintain change success rate above 95%.
+Less than 3 delivery delays caused by planning gaps.
+Less than 16% monthly amber status across DBA deliverables, where applicable.
+Complete SQL patching, backup, restore, DR, audit, TDE, certificate, and monitoring-related activities within agreed timelines.
+Perform post-change validation and update stakeholders after implementation.
+5. TEAM SMBC GROUP
+
+Support other infrastructure, platform, application, security, and regional teams with a collaborative mindset to improve service stability and reduce escalations.
+
+Measures:
+
+Provide timely support to application, infra, network, security, and audit teams for SQL-related activities.
+Participate actively in incident calls, change reviews, DR tests, patching, and project discussions.
+Share SQL DBA knowledge and best practices with team members.
+Create or update at least 3 SOP/runbook documents during the year.
+Conduct at least 2 knowledge-sharing sessions on SQL DBA topics such as Always On, backup/restore, TDE, patching, monitoring, or performance troubleshooting.
+Support cross-team escalations with ownership until closure.
