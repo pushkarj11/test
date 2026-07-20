@@ -93,3 +93,13 @@ JOIN sys.server_audit_specification_details d
     ON s.server_specification_id = d.server_specification_id
 ORDER BY d.audit_action_name;
 GO
+
+CREATE SERVER AUDIT SPECIFICATION [ServerAuditSpec_Crypto_TDE]
+FOR SERVER AUDIT [Audit_Crypto_TDE]
+    ADD (DATABASE_OBJECT_CHANGE_GROUP)             -- certs, DMK, DEK, sym/asym keys, TDE toggle
+,   ADD (DATABASE_OBJECT_OWNERSHIP_CHANGE_GROUP)   -- ALTER AUTHORIZATION on a cert/key
+,   ADD (DATABASE_OBJECT_PERMISSION_CHANGE_GROUP)  -- GRANT/DENY/REVOKE on a cert/key
+,   ADD (DATABASE_CHANGE_GROUP)                    -- CREATE/ALTER/DROP DATABASE
+,   ADD (SERVER_OBJECT_CHANGE_GROUP)               -- server-scoped objects
+WITH (STATE = ON);
+GO
